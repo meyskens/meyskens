@@ -30,13 +30,14 @@ Welcome to my GitHub Profile! I know I have quite a lot here so welcome to Maart
 - [Discord High Availability library](https://github.com/meyskens/discord-ha)
 - [myip.ninja](https://github.com/meyskens/myip.ninja)
 - [WWG Welcome Slack bot](https://github.com/meyskens/wwg-welcome)
+- [SimpleMesh, RFM69 based encrypted mesh network](https://github.com/meyskens/SimpleMesh)
 
 #### 🤪
 
 - [Pay for homemade coffee](https://github.com/meyskens/coffeebucks)
 - [GopherBBS](https://github.com/meyskens/GopherBBS)
 - [ANSIPresent, PowerPoint but 8-bt](https://github.com/meyskens/ANSIPresent)
-- [SimpleMesh, RFM69 based encrypted mesh network](https://github.com/meyskens/SimpleMesh)
+
 
 
 And other not yet indexed projects!
