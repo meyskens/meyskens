@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Welcome to my GitHub Profile! I know I have quite a lot here so welcome to Maartje's Guide to my open source adventures!
+Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) and welcome to my GitHub Profile! I know I have quite a lot here so welcome to Maartje's Guide to my open source adventures!
 
 ### How to contact me
 
