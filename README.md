@@ -16,6 +16,8 @@ Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) 
 - [All my slides](https://github.com/meyskens/talks)
 - [Intro to Kubernetes](https://github.com/meyskens/intro-to-k8s)
 - [ESP32 WiFi SSID data example](https://github.com/meyskens/esp32-ssid-weather)
+- [Tool for quick multi repo creation](https://github.com/meyskens/repo-create)
+- [Tool for creating mass PRs (to update student repos with new theory)](https://github.com/meyskens/mass-pr)
 
 #### Kubernetes
 
