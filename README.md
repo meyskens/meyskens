@@ -26,12 +26,15 @@ Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) 
 #### Go community
 
 - [FOSDEM Pentabarf export](https://github.com/meyskens/penta-export)
+- [WWG Welcome Slack bot](https://github.com/meyskens/wwg-welcome)
+
+#### Go libararies
+- [Discord High Availability library](https://github.com/meyskens/discord-ha)
+- [go-escpos](https://github.com/mect/go-escpos)
 
 #### Useful other work
 
-- [Discord High Availability library](https://github.com/meyskens/discord-ha)
 - [myip.ninja](https://github.com/meyskens/myip.ninja)
-- [WWG Welcome Slack bot](https://github.com/meyskens/wwg-welcome)
 - [SimpleMesh, RFM69 based encrypted mesh network](https://github.com/meyskens/SimpleMesh)
 
 #### 🤪
