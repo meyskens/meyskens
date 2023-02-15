@@ -2,7 +2,7 @@
 
 Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) and welcome to my GitHub Profile! I know I have quite a lot here so welcome to Maartje's Guide to my open source adventures!
 
-(this mostly contains things on my profile, my best work is done from 9 to 5 at my employer's repos)
+(this mostly contains things on my profile, my best work is done from 9 to 5 at my employer repos)
 
 ### How to contact me
 
