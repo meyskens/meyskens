@@ -2,10 +2,12 @@
 
 Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) and welcome to my GitHub Profile! I know I have quite a lot here so welcome to Maartje's Guide to my open source adventures!
 
+(this mostly contains things on my profile, my best work is done from 9 to 5 at my employer's repos)
+
 ### How to contact me
 
 - 📠 Fax me at +32 460 23 72 83 (due to a current low volume in faxes this is the fastest way to reach me)
-- 🐦 Tweet me [@MaartjeME](https://twitter.com/maartjeme)
+- 🐘 Tweet me [@Maartje@blahaj.social](https://blahaj.social/@maartje)
 - 📧 Email me at [maartje@eyskens.me](mailto:maartje@eyskens.me)
 - 🐱 File a GitHub issue!
 
