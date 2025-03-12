@@ -13,6 +13,14 @@ Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) 
 
 ### My work
 
+#### Personal projects
+
+- [Fahrplan](https://github.com/meyskens/fahrplan) a companion app for Even Realities G1 smartglasses
+
+#### Rertro fun
+
+- [Bevelgacom](https://github.com/bevelgacom) a collection of retro telephony related projetcs and services
+
 #### Teaching
 
 - [All my slides](https://github.com/meyskens/talks)
