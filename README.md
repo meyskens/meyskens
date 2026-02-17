@@ -6,7 +6,7 @@ Hello there! My name is [Maartje](https://www.howtopronounce.com/dutch/maartje) 
 
 ### How to contact me
 
-- 📠 Fax me at +32 460 23 72 83 (due to a current low volume in faxes this is the fastest way to reach me)
+- 📠 Fax me at +32 33 86 38 94 (due to a current low volume in faxes this is the fastest way to reach me)
 - 🐘 Tweet me [@Maartje@blahaj.social](https://blahaj.social/@maartje)
 - 📧 Email me at [maartje@eyskens.me](mailto:maartje@eyskens.me)
 - 🐱 File a GitHub issue!
